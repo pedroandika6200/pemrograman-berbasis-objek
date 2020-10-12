@@ -1,2 +1,2 @@
-# pemrograman-berbasis-web
+# pemrograman-berbasis-objek
 Repository untuk praktikum PBO
